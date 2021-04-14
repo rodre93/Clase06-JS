@@ -30,6 +30,9 @@ do {
     index+=1;
     indexEnd-=1;
 
+    console.log(element);
+    console.log(elementEnd);
+
 }while(index < listaNombres.length);
 
 /**
